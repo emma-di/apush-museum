@@ -791,7 +791,7 @@ a:hover:after {
 }
 
 [data-section=early] .header-rail .header-title {
-    color: #f9e54a
+    color: #f6871f
 }
 
 [data-section=romantic] .header-rail .header-title {
@@ -799,7 +799,7 @@ a:hover:after {
 }
 
 [data-section=victorian] .header-rail .header-title {
-    color: #05c481
+    color: #f6871f
 }
 
 [data-section=jazz] .header-rail .header-title {
@@ -807,7 +807,7 @@ a:hover:after {
 }
 
 [data-section=activism] .header-rail .header-title {
-    color: #c881f8
+    color: #f6871f
 }
 
 [data-section=alternative] .header-rail .header-title {
@@ -815,7 +815,7 @@ a:hover:after {
 }
 
 [data-section=streetwear] .header-rail .header-title {
-    color: #20caf6
+    color: #f6871f
 }
 
 @media (min-width:1024px) {
