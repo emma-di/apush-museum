@@ -760,7 +760,7 @@ a:hover:after {
 
 @media (min-width:1024px) {
     .timeline2-intro p {
-        max-width: 1300px;
+        max-width: 810px;
         margin: 0 auto
     }
 }
