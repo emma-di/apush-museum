@@ -738,7 +738,7 @@ a:hover:after {
 .timeline2-intro h3 {
     display: inline-block;
     padding: 1em 0 .5em;
-    margin-bottom: 1em;
+    margin-bottom: .25em;
     text-align: left;
     text-transform: uppercase;
     color: #fff;
@@ -760,6 +760,18 @@ a:hover:after {
 
 @media (min-width:1024px) {
     .timeline2-intro p {
+        max-width: 810px;
+        margin: 0 auto
+    }
+}
+
+.timeline2-intro g {
+    padding: 0 2em 2em;
+    text-align: center
+}
+
+@media (min-width:1024px) {
+    .timeline2-intro g {
         max-width: 810px;
         margin: 0 auto
     }
