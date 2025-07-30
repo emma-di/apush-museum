@@ -1,0 +1,3 @@
+Would've fixed:
+1. Keep header at top of page while scrolling on main page or have a navbar within the page to visit different eras as you wish (instead of having to scroll)
+2. Keep header at top of exhibit map and sources pages
